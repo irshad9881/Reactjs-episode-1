@@ -1,0 +1,75 @@
+{
+    "info": {
+        "id": "86789",
+        "name": "Urban Tandoor",
+        "cloudinaryImageId": "qbtn2btbppphu87qc8x7",
+        "areaName": "Civil Lines",
+        "costForTwo": "₹600 for two",
+        "cuisines": [
+            "North Indian",
+            "Chinese"
+        ],
+        "avgRating": 3.7,
+        "feeDetails": {
+            "restaurantId": "86789",
+            "fees": [
+                {
+                    "name": "BASE_DISTANCE",
+                    "fee": 1500
+                },
+                {
+                    "name": "BASE_TIME"
+                },
+                {
+                    "name": "ANCILLARY_SURGE_FEE"
+                }
+            ],
+            "totalFee": 1500
+        },
+        "parentId": "15632",
+        "avgRatingString": "3.7",
+        "totalRatingsString": "5K+",
+        "sla": {
+            "deliveryTime": 27,
+            "lastMileTravel": 2.3,
+            "serviceability": "SERVICEABLE",
+            "slaString": "27 mins",
+            "lastMileTravelString": "2.3 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2023-10-11 23:00:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "20% OFF",
+            "subHeader": "UPTO ₹50"
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+        "link": "https://www.swiggy.com/restaurants/urban-tandoor-civil-lines-bareilly-86789",
+        "type": "WEBLINK"
+    }
+}
