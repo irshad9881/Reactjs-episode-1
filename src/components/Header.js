@@ -8,6 +8,7 @@ import {useSelector} from "react-redux";
 export const Header = () => {
    const onlineStatus=useOnlineStatus();
   const [btnName,setbtnName]=useState("Login");
+  console.log(useState());
   // const {loggedInUser}=useContext(UserContext);
   //console.log(loggedInUser);
    //subscribing the store
